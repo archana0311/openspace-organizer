@@ -9,7 +9,7 @@ Seats -4 seats each table
 
 **Prequistes:**
 
-1. Packages:
+_1. Packages:_
 os
 pandas
 random
@@ -19,7 +19,7 @@ openpyxl
 2.Created a venv and presented the versions in requirements.txt
 3.Created an Excel (text)file with the names of the colleagues
 
-Python scripts
+_Python scripts_
 
 table.py conntains the command for generating class Seat and Table and the required attributes and methods.
 The class Seat has the attributes free and occupant.
