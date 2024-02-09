@@ -33,4 +33,8 @@ openspace.py contains the script for generating class openspace with attributes 
 The class allows to organize the default spaces (24) seats randomly over the available tables
 The functions were defined for organize,display, free seats, persons in room, store the output in Excel file
 
-main.py file serves as the central script that ties together the various components of your Python application and defines its behavior.
+main.py file serves as the central script that ties together the various components of your Python application and defines its behavior. main.py contains the script that is executed when you run your Python program.
+The if __name__ == "__main__": block ensures that the code inside it only runs if the script is executed directly.
+When we run the main.pay file, we generate an excel file with the required commands.
+
+![Hope everyone gets the seat:>](https://tenor.com/view/sigh-stressed-empty-seats-sam-healy-michael-harney-gif-14410238)
