@@ -40,4 +40,5 @@ The functions were defined for organize,display, free seats, persons in room, st
 The if __name__ == "__main__": block ensures that the code inside it only runs if the script is executed directly.
 When we run the main.pay file, we generate an excel file with the required commands.
 
-![Hope everyone gets the seat:>](https://giphy.com/gifs/southparkgifs-l0HlMglmxM0tjs5Ko)
+![Hope everyone gets the seat]
+![table chair](https://github.com/archana0311/openspace-organizer/assets/56574587/eb2c444b-f27f-4338-b098-eb2d9fde2eab)
