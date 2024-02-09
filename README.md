@@ -1,13 +1,13 @@
 # openspace-organizer
 Project-1/Solo
 
-Objective:
+**Objective:**
 1. To create a Python script that runs each day and randomly assign seats to colleagues in an office with the following set up-
 Tables-6
 Seats -4 seats each table
 2. Create a local and a GitHub project with the repository name "openspace-organizer" with predefined files and folders
 
-Prequistes:
+**Prequistes:**
 
 1. Packages:
 os
