@@ -37,4 +37,4 @@ main.py file serves as the central script that ties together the various compone
 The if __name__ == "__main__": block ensures that the code inside it only runs if the script is executed directly.
 When we run the main.pay file, we generate an excel file with the required commands.
 
-![Hope everyone gets the seat:>](https://tenor.com/view/sigh-stressed-empty-seats-sam-healy-michael-harney-gif-14410238)
+![Hope everyone gets the seat:>](https://giphy.com/gifs/southparkgifs-l0HlMglmxM0tjs5Ko)
